@@ -3,6 +3,6 @@ module src.minenraeumerfx {
     requires javafx.fxml;
 
 
-    opens src.minenraeumerfx to javafx.fxml;
-    exports src.minenraeumerfx;
+    opens minenraeumerfx to javafx.fxml;
+    exports minenraeumerfx;
 }

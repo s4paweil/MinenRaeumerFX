@@ -2,8 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/src/minenraeumerfx/Feld.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/src/main/java/src/minenraeumerfx/Knopf.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/minenraeumerfx/Feld.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/minenraeumerfx/Feld.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/minenraeumerfx/Knopf.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/minenraeumerfx/Knopf.java" charset="windows-1252" />
   </component>
 </project>

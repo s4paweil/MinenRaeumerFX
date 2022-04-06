@@ -1,12 +1,11 @@
-package src.minenraeumerfx;
+package minenraeumerfx;
 
 import javafx.scene.control.Button;
 import javafx.event.EventHandler;
 import javafx.event.ActionEvent;
 
      
-// Die Klasse Knopf merkt sich, welches Feld der
-// erzeugte Button repräsentiert.
+
 public class Knopf extends Button
  { Feld feld;
    Knopf(Feld feld)
@@ -15,8 +14,7 @@ public class Knopf extends Button
       this.setOnAction(myHandler);
     }
 
-     // Wir verwenden einen Eventhandler für alle Buttons. Mit Hilfe von
-     // e.getSource() können sie feststellen, welcher Button angeklickt wurde.
+
      static EventHandler<ActionEvent> myHandler =
              new EventHandler<ActionEvent>() {
                  public void handle(ActionEvent e) {
